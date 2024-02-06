@@ -1,8 +1,8 @@
 ## spring-mvC-example
-<hr>
 This project demonstrates the Spring MVC but focusing on the <b>C</b> in <b>MVC</b> which stands for <b>Controller</b>.
 <br>
 
+## So, What is this project?
 It is a Cloud Kitchen which uses the following Controllers:
 - HomeController.class
 - StartersController.class
